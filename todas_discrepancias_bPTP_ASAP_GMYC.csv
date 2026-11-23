@@ -1,0 +1,61 @@
+﻿Marcador,Accesion,Especie,Motivo_discrepancia,MOTU_(bPTP),MOTU_(ASAP),MOTU_(GMYC),Estado_bin_bPTP,Estado_bin_ASAP,Estado_bin_GMYC
+COI,S. alternans,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_2,MOTU_46,,Lumping,Congruente,No evaluado
+COI,S. calcarata,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Splitting'] | MOTUs_distintos",MOTU_2,MOTU_27,,Lumping,Splitting,No evaluado
+COI,S. canidens,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Splitting'] | MOTUs_distintos",MOTU_2,MOTU_44,,Lumping,Splitting,No evaluado
+COI,S. cataracta,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_2,MOTU_73,,Lumping,Congruente,No evaluado
+COI,S. cingulata,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Splitting'] | MOTUs_distintos",MOTU_2,MOTU_1,,Lumping,Splitting,No evaluado
+COI,S. cretica,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_2,MOTU_43,,Lumping,Congruente,No evaluado
+COI,S. dawydoffi,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Splitting'] | MOTUs_distintos",MOTU_2,MOTU_51,,Lumping,Splitting,No evaluado
+COI,S. hainanum,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Splitting'] | MOTUs_distintos",MOTU_2,MOTU_71,,Lumping,Splitting,No evaluado
+COI,S. japonica,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Splitting'] | MOTUs_distintos",MOTU_2,MOTU_29,,Lumping,Splitting,No evaluado
+COI,S. laeta,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_2,MOTU_49,,Lumping,Congruente,No evaluado
+COI,S. lufengia,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Splitting'] | MOTUs_distintos",MOTU_2,MOTU_64,,Lumping,Splitting,No evaluado
+COI,S. mazbii,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_2,MOTU_75,,Lumping,Congruente,No evaluado
+COI,S. mojiangica,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_2,MOTU_61,,Lumping,Congruente,No evaluado
+COI,S. morsitans,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Splitting'] | MOTUs_distintos",MOTU_2,MOTU_23,,Lumping,Splitting,No evaluado
+COI,S. multidens,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Splitting'] | MOTUs_distintos",MOTU_2,MOTU_34,,Lumping,Splitting,No evaluado
+COI,S. negrocapitis,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Splitting'] | MOTUs_distintos",MOTU_2,MOTU_62,,Lumping,Splitting,No evaluado
+COI,S. oraniensis,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_2,MOTU_50,,Lumping,Congruente,No evaluado
+COI,S. paradoxa,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_2,MOTU_70,,Lumping,Congruente,No evaluado
+COI,S. pinguis,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Splitting'] | MOTUs_distintos",MOTU_2,MOTU_53,,Lumping,Splitting,No evaluado
+COI,S. polymorpha,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_2,MOTU_47,,Lumping,Congruente,No evaluado
+COI,S. spinosissima,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_2,MOTU_69,,Lumping,Congruente,No evaluado
+COI,S. subcrustalis,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_2,MOTU_74,,Lumping,Congruente,No evaluado
+COI,S. subspinipes,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Splitting'] | MOTUs_distintos",MOTU_2,MOTU_10,,Lumping,Splitting,No evaluado
+COI,S. valida,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_2,MOTU_48,,Lumping,Congruente,No evaluado
+16S,S. afer,,MOTUs_distintos,MOTU_11,MOTU_13,,Congruente,Congruente,No evaluado
+16S,S. alternans,,MOTUs_distintos,MOTU_15,MOTU_14,,Congruente,Congruente,No evaluado
+16S,S. amazonica,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_19,MOTU_12,,Lumping,Congruente,No evaluado
+16S,S. calcarata,,MOTUs_distintos,MOTU_9,MOTU_34,,Splitting,Splitting,No evaluado
+16S,S. canidens,,MOTUs_distintos,MOTU_12,MOTU_15,,Congruente,Congruente,No evaluado
+16S,S. cingulata,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_17,MOTU_2,,Lumping,Congruente,No evaluado
+16S,S. dawydoffi,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_17,MOTU_22,,Lumping,Congruente,No evaluado
+16S,S. hardwickei,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_17,MOTU_18,,Lumping,Congruente,No evaluado
+16S,S. japonica,,MOTUs_distintos,MOTU_17,MOTU_31,,Lumping_y_Splitting,Lumping_y_Splitting,No evaluado
+16S,S. laeta,,MOTUs_distintos,MOTU_20,MOTU_19,,Congruente,Congruente,No evaluado
+16S,S. leki,,MOTUs_distintos,MOTU_21,MOTU_20,,Congruente,Congruente,No evaluado
+16S,S. morsitans,,MOTUs_distintos,MOTU_18,MOTU_3,,Splitting,Splitting,No evaluado
+16S,S. multidens,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_17,MOTU_21,,Lumping,Congruente,No evaluado
+16S,S. mutilans,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Congruente'] | MOTUs_distintos",MOTU_3,MOTU_36,,Lumping,Congruente,No evaluado
+16S,S. oraniensis,,MOTUs_distintos,MOTU_13,MOTU_23,,Splitting,Splitting,No evaluado
+16S,S. pinguis,,MOTUs_distintos,MOTU_2,MOTU_26,,Splitting,Splitting,No evaluado
+16S,S. polymorpha,,MOTUs_distintos,MOTU_16,MOTU_25,,Congruente,Congruente,No evaluado
+16S,S. subspinipes,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Splitting'] | MOTUs_distintos",MOTU_17,MOTU_9,,Lumping,Splitting,No evaluado
+16S,S. viridis,,MOTUs_distintos,MOTU_10,MOTU_1,,Congruente,Congruente,No evaluado
+28S,S. afer,,MOTUs_distintos,MOTU_2,MOTU_1,,Lumping,Lumping,No evaluado
+28S,S. amazonica,,MOTUs_distintos,MOTU_2,MOTU_1,,Lumping,Lumping,No evaluado
+28S,S. calcarata,,"Concordancia=Parcial_o_discrepante | Estados=['Lumping', 'Lumping_y_Splitting'] | MOTUs_distintos",MOTU_3,MOTU_2,,Lumping,Lumping_y_Splitting,No evaluado
+28S,S. canidens,,MOTUs_distintos,MOTU_2,MOTU_1,,Lumping,Lumping,No evaluado
+28S,S. cataracta,,MOTUs_distintos,MOTU_3,MOTU_2,,Lumping,Lumping,No evaluado
+28S,S. cingulata,,MOTUs_distintos,MOTU_2,MOTU_1,,Lumping,Lumping,No evaluado
+28S,S. dawydoffi,,MOTUs_distintos,MOTU_3,MOTU_2,,Lumping,Lumping,No evaluado
+28S,S. hardwickei,,MOTUs_distintos,MOTU_2,MOTU_1,,Lumping,Lumping,No evaluado
+28S,S. laeta,,MOTUs_distintos,MOTU_2,MOTU_1,,Lumping,Lumping,No evaluado
+28S,S. leki,,MOTUs_distintos,MOTU_2,MOTU_1,,Lumping,Lumping,No evaluado
+28S,S. mirabilis,,MOTUs_distintos,MOTU_2,MOTU_1,,Lumping,Lumping,No evaluado
+28S,S. morsitans,,MOTUs_distintos,MOTU_2,MOTU_1,,Lumping_y_Splitting,Lumping_y_Splitting,No evaluado
+28S,S. mutilans,,MOTUs_distintos,MOTU_2,MOTU_1,,Lumping,Lumping,No evaluado
+28S,S. pinguis,,MOTUs_distintos,MOTU_3,MOTU_2,,Lumping,Lumping,No evaluado
+28S,S. polymorpha,,MOTUs_distintos,MOTU_3,MOTU_2,,Lumping_y_Splitting,Lumping_y_Splitting,No evaluado
+28S,S. subspinipes,,MOTUs_distintos,MOTU_2,MOTU_1,,Lumping_y_Splitting,Lumping_y_Splitting,No evaluado
+28S,S. viridis,,MOTUs_distintos,MOTU_2,MOTU_1,,Lumping,Lumping,No evaluado
