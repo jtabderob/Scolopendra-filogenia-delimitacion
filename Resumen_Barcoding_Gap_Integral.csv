@@ -1,0 +1,122 @@
+Locus,Taxon,Intra Max (%),Inter Min (%),Gap (%),Barcoding Gap
+COI,S_cingulata_CladoE,0,10.57,10.57,SÍ
+COI,S_cingulata_CladoD,0,7.96,7.96,SÍ
+COI,S_cingulata_CladoB,6.69,7.7,1.02,SÍ
+COI,S_cingulata_CladoC,0,7.7,7.7,SÍ
+COI,S_cingulata_CladoA,8.34,10.11,1.77,SÍ
+COI,S_subspinipes_CladoK,0,6.79,6.79,SÍ
+COI,S_subspinipes_CladoG,0,8.12,8.12,SÍ
+COI,S_subspinipes_CladoH,0,8.12,8.12,SÍ
+COI,S_subspinipes_CladoL,0,8.24,8.24,SÍ
+COI,S_subspinipes_CladoJ,0,6.97,6.97,SÍ
+COI,S_subspinipes_CladoI,8.05,6.79,-1.26,NO (Solapamiento)
+COI,S_subspinipes_CladoM,0,8.25,8.25,SÍ
+COI,S_subspinipes_CladoE,0,13.58,13.58,SÍ
+COI,S_subspinipes_CladoA,0,8.52,8.52,SÍ
+COI,S_subspinipes_CladoD,0,10.21,10.21,SÍ
+COI,S_subspinipes_CladoF,0,5.94,5.94,SÍ
+COI,S_subspinipes_CladoB,0,8.52,8.52,SÍ
+COI,S_subspinipes_CladoC,0,9.28,9.28,SÍ
+COI,S_morsitans_CladoA,0,11.36,11.36,SÍ
+COI,S_morsitans_CladoD,0,15.4,15.4,SÍ
+COI,S_morsitans_CladoC,0,12.52,12.52,SÍ
+COI,S_morsitans_CladoB,0,11.36,11.36,SÍ
+COI,S_calcarata_CladoA,0,19.88,19.88,SÍ
+COI,S_calcarata_CladoB,0,14.48,14.48,SÍ
+COI,S_japonica_CladoA,0,11.21,11.21,SÍ
+COI,S_japonica_CladoE,0,14.7,14.7,SÍ
+COI,S_japonica_CladoB,0,11.21,11.21,SÍ
+COI,S_japonica_CladoC,0,12.65,12.65,SÍ
+COI,S_japonica_CladoD,0,11.69,11.69,SÍ
+COI,S_multidens_CladoA,6.74,8.49,1.75,SÍ
+COI,S_multidens_CladoB,0,8.49,8.49,SÍ
+COI,S_dehaani_CladoD,7.23,5.94,-1.29,NO (Solapamiento)
+COI,S_dehaani_CladoA,7.24,6.69,-0.55,NO (Solapamiento)
+COI,S_dehaani_CladoB,7.6,6.5,-1.11,NO (Solapamiento)
+COI,S_dehaani_CladoC,0,6.5,6.5,SÍ
+COI,S_dehaani_CladoE,0,9.27,9.27,SÍ
+COI,S_cretica,0,19.01,19.01,SÍ
+COI,S_canidens_CladoA,0,19.36,19.36,SÍ
+COI,S_canidens_CladoB,0,18.26,18.26,SÍ
+COI,S_alternans,0,16.46,16.46,SÍ
+COI,S_polymorpha,0,16.46,16.46,SÍ
+COI,S_valida,0,18.53,18.53,SÍ
+COI,S_laeta,0,16.66,16.66,SÍ
+COI,S_oraniensis,0,17.46,17.46,SÍ
+COI,S_dawydoffi_CladoA,0,11.06,11.06,SÍ
+COI,S_dawydoffi_CladoB,0,18.74,18.74,SÍ
+COI,S_pinguis_CladoC,0,13.27,13.27,SÍ
+COI,S_pinguis_CladoD,0,13.27,13.27,SÍ
+COI,S_pinguis_CladoE,0,11.77,11.77,SÍ
+COI,S_pinguis_CladoA,0,13.7,13.7,SÍ
+COI,S_pinguis_CladoG,0,17.33,17.33,SÍ
+COI,S_pinguis_CladoF,0,11.77,11.77,SÍ
+COI,S_pinguis_CladoB,0,13.7,13.7,SÍ
+COI,S_pinguis_CladoH,0,18.94,18.94,SÍ
+COI,S_mojiangica,0,13.27,13.27,SÍ
+COI,S_negrocapitis_CladoA,0,11.27,11.27,SÍ
+COI,S_negrocapitis_CladoB,0,11.69,11.69,SÍ
+COI,S_lufengia_CladoC,7.82,13.08,5.26,SÍ
+COI,S_lufengia_CladoD,0,12.89,12.89,SÍ
+COI,S_lufengia_CladoA,0,10.59,10.59,SÍ
+COI,S_lufengia_CladoB,0,10.59,10.59,SÍ
+COI,S_spinosissima,0,15.34,15.34,SÍ
+COI,S_paradoxa,0,15.52,15.52,SÍ
+COI,S_hainanum_CladoA,0,15.76,15.76,SÍ
+COI,S_hainanum_CladoB,0,16.39,16.39,SÍ
+COI,S_cataracta,0,14.84,14.84,SÍ
+COI,S_subcrustalis,0,16.66,16.66,SÍ
+COI,S_mazbii,0,21.07,21.07,SÍ
+16S,S_viridis,0,17.65,17.65,SÍ
+16S,S_cingulata,0,0.76,0.76,SÍ
+16S,S_cingulata_voucher,3.09,0.76,-2.33,NO (Solapamiento)
+16S,S_morsitans_CladoC,0,12.8,12.8,SÍ
+16S,S_morsitans_CladoB,11.7,8.14,-3.57,NO (Solapamiento)
+16S,S_morsitans_CladoA,5.51,8.14,2.62,SÍ
+16S,S_subspinipes_CladoB,5.41,8.36,2.95,SÍ
+16S,S_subspinipes_CladoC,0,7.47,7.47,SÍ
+16S,S_subspinipes_CladoA,2.81,6.82,4,SÍ
+16S,S_amazonica,0,9.4,9.4,SÍ
+16S,S_afer_voucher,0,20.26,20.26,SÍ
+16S,S_alternans_voucher,0,16.45,16.45,SÍ
+16S,S_canidens_voucher,0,21.03,21.03,SÍ
+16S,S_dehaani,11.42,6.82,-4.6,NO (Solapamiento)
+16S,S_hardwickei_voucher,0,0.26,0.26,SÍ
+16S,S_hardwickei_isolate,1.32,0.26,-1.06,NO (Solapamiento)
+16S,S_laeta_voucher,0,14.03,14.03,SÍ
+16S,S_leki_voucher,0,12.07,12.07,SÍ
+16S,S_multidens_voucher,0,6.27,6.27,SÍ
+16S,S_oraniensis_CladoA,0,12.02,12.02,SÍ
+16S,S_oraniensis_CladoB,0,12.02,12.02,SÍ
+16S,S_polymorpha_voucher,0,16.45,16.45,SÍ
+16S,S_dawydoffi_voucher,1.57,6.27,4.7,SÍ
+16S,S_pinguis_CladoA,8.93,7.93,-1,NO (Solapamiento)
+16S,S_pinguis_CladoB,10.18,7.93,-2.25,NO (Solapamiento)
+16S,S_japonica_CladoB,8.62,7.87,-0.74,NO (Solapamiento)
+16S,S_japonica_CladoA,6.09,12.72,6.63,SÍ
+16S,S_calcarata_CladoA,5.88,12.24,6.36,SÍ
+16S,S_calcarata_CladoB,0,7.47,7.47,SÍ
+16S,S_mutilans,8.4,12.72,4.33,SÍ
+28S,S_cingulata,0.7,2.08,1.39,SÍ
+28S,S_viridis,0,5.42,5.42,SÍ
+28S,S_mutilans,0,0.69,0.69,SÍ
+28S,S_polymorpha_CladoA,0,3.12,3.12,SÍ
+28S,S_polymorpha_CladoB,0,5.42,5.42,SÍ
+28S,S_subspinipes,2.08,0.35,-1.74,NO (Solapamiento)
+28S,S_morsitans_CladoB,3.85,0.35,-3.5,NO (Solapamiento)
+28S,S_morsitans_CladoA,2.08,3.12,1.04,SÍ
+28S,S_amazonica,1.05,0.35,-0.7,NO (Solapamiento)
+28S,S_afer,0,10.26,10.26,SÍ
+28S,S_canidens,0,7.64,7.64,SÍ
+28S,S_dehaani,0,0.69,0.69,SÍ
+28S,S_hardwickei,0,2.44,2.44,SÍ
+28S,S_laeta,0,3.21,3.21,SÍ
+28S,S_mirabilis,0,5.3,5.3,SÍ
+28S,S_leki,0,3.21,3.21,SÍ
+28S,S_dawydoffi,0,1.39,1.39,SÍ
+28S,S_pinguis,1.74,7.67,5.92,SÍ
+28S,S_cataracta,0,0.35,0.35,SÍ
+28S,S_calcarata_CladoA,1.04,12.15,11.11,SÍ
+28S,S_calcarata_CladoB,0,0.35,0.35,SÍ
+28S,S_calcarata_CladoB_anot,0,0.35,0.35,SÍ
+28S,S_japonica,0,53.81,53.81,SÍ
